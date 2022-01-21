@@ -7,7 +7,7 @@ we will give attention just P-values colomn. I removed highest P-value ,then reb
 
 The dataset taken from https://bilkav.com/odev_tenis.csv
 
-
+#
 ![er](https://user-images.githubusercontent.com/52197142/150572137-eaadac4f-60e1-45e0-9688-56f6e2f9e3eb.png)
 
 
