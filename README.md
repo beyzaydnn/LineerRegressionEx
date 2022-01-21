@@ -3,7 +3,7 @@
 Simple impplementations of linear regression and using Backward Eliminition in python .
 we will give attention just P-values colomn. I removed highest P-value ,then rebuilt it and fitted the model with  the remaining variables.
 
-# data collection
+# Data 
 
 The dataset taken from https://bilkav.com/odev_tenis.csv
 
