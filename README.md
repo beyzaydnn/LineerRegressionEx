@@ -1,5 +1,5 @@
 
-# Lineer Regression and Backward Elimination Example
+# Linear Regression and Backward Elimination Example
 Simple implementations of linear regression and using Backward Eliminition in python .
 we will give attention just P-values colomn. I removed highest P-value ,then rebuilt it and fitted the model with  the remaining variables.
 
